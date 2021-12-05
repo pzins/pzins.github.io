@@ -5,7 +5,7 @@
     <link>https://pzins.github.io/publication-type/3/</link>
       <atom:link href="https://pzins.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pzins.github.io/media/icon_hu7a04b12d7065006388d2ecf0540ba27b_60014_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Learning Implicit 3D Representations of Dressed Humans from Sparse Views</title>
-      <link>https://pzins.github.io/publication/learning_implicit_representation/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pzins.github.io/publication/learning_implicit_representation/</guid>
+      <title>Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views</title>
+      <link>https://pzins.github.io/publication/data-driven_3d_reconstruction/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pzins.github.io/publication/data-driven_3d_reconstruction/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
